@@ -4,8 +4,6 @@ import time
 import nst_utils as nst
 import os
 
-# https://pytorch.org/tutorials/advanced/neural_style_tutorial.html#
-
 # device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 device = torch.device('cpu')
 
